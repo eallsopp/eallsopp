@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eallsopp
-- 👀 I’m interested in ...JS, Node, React
-- 🌱 I’m currently learning ...Asynchronous Javascript
+- 👀 I’m interested in ...JS, Node, Rails
+- 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ... future blockchain projects
 - 📫 How to reach me ...on gitHub!
 
