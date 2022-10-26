@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eallsopp
 - 👀 I’m interested in ...JS, Node, Rails
 - 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ... unified ecommerce platforms
 - 📫 How to reach me ...on gitHub!
 
 <!---
