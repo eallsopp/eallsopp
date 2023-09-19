@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eallsopp
-- 👀 I’m interested in ...JS, Node, Rails
-- 🌱 I’m currently learning ...React
+- 👀 I’m interested in ...MERN Stack, Rails
+- 🌱 I’m currently learning ... Cloud 
 - 📫 How to reach me ...on gitHub!
 
 <!---
